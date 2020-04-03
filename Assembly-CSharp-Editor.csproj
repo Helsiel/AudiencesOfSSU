@@ -57,8 +57,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\RTS_Camera\Scripts\Editor\LayoutHelpers.cs" />
-    <Compile Include="Assets\RTS_Camera\Scripts\Editor\RTS_CameraEditor.cs" />
+    <Compile Include="Assets\QPathFinder\Script\Editor\CustomEditor.cs" />
+    <Compile Include="Assets\QPathFinder\Script\Editor\PathFinderEditor.cs" />
+    <Compile Include="Assets\ZenythStudios\Graphway\Assets\Editor\GraphwayConnectionEditor.cs" />
+    <Compile Include="Assets\ZenythStudios\Graphway\Assets\Editor\GraphwayEditor.cs" />
+    <Compile Include="Assets\ZenythStudios\Graphway\Assets\Editor\GraphwayMenu.cs" />
+    <Compile Include="Assets\ZenythStudios\Graphway\Assets\Editor\GraphwayNodeEditor.cs" />
+    <Compile Include="Assets\ZenythStudios\Graphway\Assets\Editor\GraphwayObjectEditor.cs" />
     <Reference Include="UnityEditor.TestRunner">
       <HintPath>D:/Map1/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
